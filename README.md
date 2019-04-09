@@ -9,3 +9,13 @@ If the connecton succeedes, the UI shows the server we are connected to and quer
 
 To start, select an existing database in the connected server by doing 'use DBname' and upon success 
 'select' statements can be executed against it.
+
+Compilation details:
+
+Project was created using Visual Studio 2017 -- not tested with other versions.
+
+To build dowload source and execute PropsConsole.vcxproj.
+
+This will launch Visual Studio with the project loaded.
+
+Build the desired configuration and save the solution file (sln) for future use.
