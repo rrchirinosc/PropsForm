@@ -14,7 +14,7 @@ Compilation details:
 
 Project was created using Visual Studio 2017 -- not tested with other versions.
 
-To build dowload source and execute PropsConsole.vcxproj.
+To build dowload source and execute PropsForm.vcxproj.
 
 This will launch Visual Studio with the project loaded.
 
